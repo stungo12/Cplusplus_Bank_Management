@@ -6,5 +6,4 @@ C++ Bank Management is a C++ project that was used to increase my C++ skills and
 \nAnother problem that appeared when the arrays were used is that a different array was needed for the different data types. Actually, I probably made too many arrays as I had one for each item that made up a customer and that led to the problem that all of these arrays needed to be added to each fucntion, which was made them big, clunky, and with arrays that they didn't necessarily need, but maybe the next function that called did need them. The solution to this was using a Structure to hold all of the arrays. I only resently added the structure, but it seemed to work well. 
 \nI still need to add an Edit, Transaction, Erase, and See (all of a customer's information) functions and it would be nice to have something that makes sure things like the phone number and SSN are in the correct format. It is time to set this project aside, start a new project, and come back to this project after some time has passed.
 
-
 Here is a Trello link to see some of the thinking behind the project: https://trello.com/invite/b/dQTRMMJi/ATTIcdc735743f4f57f38b854817d0fd9cafC625F91E/learn-c
